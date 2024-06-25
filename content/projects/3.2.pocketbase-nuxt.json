@@ -1,0 +1,7 @@
+{
+  "name": "Pocketbase Nuxt",
+  "description": "A starter template for Nuxt.js with Pocketbase",
+  "thumbnail": "/projects/pb-nuxt.png",
+  "status": "Active",
+  "opensource": true
+}

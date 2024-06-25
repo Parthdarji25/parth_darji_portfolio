@@ -1,0 +1,7 @@
+{
+  "name": "Sketch to UI",
+  "description": "Covert bad hand drawn UI sketch to code using GPT 4 Vision model",
+  "thumbnail": "/projects/sketch-to-ui.png",
+  "status": "Active",
+  "opensource": true
+}

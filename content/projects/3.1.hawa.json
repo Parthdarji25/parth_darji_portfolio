@@ -1,0 +1,7 @@
+{
+  "name": "Hawa",
+  "description": "A simple white noise app which sits in the menubar",
+  "thumbnail": "/projects/hawa.png",
+  "status": "Active",
+  "opensource": true
+}
